@@ -1,4 +1,4 @@
-# Título de la Aplicación: Prueba Jetpack Compose con Dagger Hilt, Retrofit2, Corrutinas, MVVM, Stateflow y Clean Architecture
+# App Marvel Unilimited API: Prueba con Jetpack Compose con Dagger Hilt, Retrofit2, Corrutinas, MVVM, Stateflow y Clean Architecture
 
 ---
 
@@ -14,7 +14,7 @@ Este proyecto de muestra es una aplicación de Android desarrollada utilizando J
 - Organización del código siguiendo los principios de Clean Architecture.
 
 ## Captura de Pantalla
-![Preview de la Aplicación](preview.gif)
+![Preview de la Aplicación](https://github.com/thecomediandan/Project-Android-Kotlin-JetpackCompose-Marvel-Unlimited-Api/blob/main/AppMarvelUnlimited.gif)
 
 ## Configuración del Proyecto
 1. Clona el repositorio desde [GitHub](https://github.com/thecomediandan/Project-Android-Kotlin-JetpackCompose-Marvel-Unlimited-Api).
